@@ -4,6 +4,7 @@
 ## Authors: 
 - **Rahi Krishna: `rk4748`**
 - **Tanmay G. Dadhania: `tgd8275`**
+- **Jayesh Khandelwal: `jhk9774`**
 
 ---
 
